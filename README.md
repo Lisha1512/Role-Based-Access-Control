@@ -30,7 +30,7 @@ This project implements a **Role-Based Access Control (RBAC) System** using Reac
 
 ---
 
-## 🛠️ Technologies Stack
+## 🛠️ Technology Stack
 
 - **Frontend**: React.js
 - **Routing**: React Router DOM
@@ -48,19 +48,23 @@ This project implements a **Role-Based Access Control (RBAC) System** using Reac
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
 ### 3️⃣ Install Dependencies:
-Run the following command to install required dependencies:
-   ```bash
-   npm install
+   Run the following command to install required dependencies:
+      ```bash
+      npm install
+
 or, if using yarn:
-   ```bash
-   yarn install
+      ```bash
+      yarn install
+
 ### 4️⃣ Start the development server:
-To start the application in development mode, run:
-   ```bash
-   npm start
-or, for yarn:
-   ```bash
-   yarn start
+   To start the application in development mode, run:
+      ```bash
+      npm start
+
+   or, for yarn:
+      ```bash
+      yarn start
    
 The app will be accessible at http://localhost:3000.
