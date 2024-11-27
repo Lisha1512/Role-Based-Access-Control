@@ -3,9 +3,10 @@
 It is deployed on Netlify.
 It can be accessed by this link : https://visionary-fox-cc238a.netlify.app/
 
+## 📖 Overview
 This project implements a **Role-Based Access Control (RBAC) System** using React and TypeScript. It provides a dynamic and interactive web-based dashboard that allows administrators to manage users, roles, and permissions effectively. The system also includes an **Audit Logs** feature to track changes and assignments, ensuring transparency and accountability.
 
-## Features
+## ✨ Features
 
 ### 1. Dynamic Role and Permission Management
 - Add, update, or delete roles and permissions with real-time updates.
@@ -29,30 +30,37 @@ This project implements a **Role-Based Access Control (RBAC) System** using Reac
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Stack
 
-- **React**: For building the interactive user interface.
-- **TypeScript**: Ensuring type safety and maintainability.
-- **CSS**: Custom styling for a visually engaging layout.
-- **React Router**: For client-side routing and navigation.
+- **Frontend**: React.js
+- **Routing**: React Router DOM
+- **Styling**: CSS (custom styling)
+- **State Management**: React hooks (e.g., useState and useEffect)
 
 ---
 
-## Setup Instructions
+## 🚀 Setup Instructions
 
-### Prerequisites
+### 1️⃣ Prerequisites
 - Node.js (v14 or above) and npm installed on your system.
 
-### Installation
-1. Clone this repository to your local machine:
+### 2️⃣Clone the repository:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-2. Install the required dependencies:
+### 3️⃣ Install Dependencies:
+Run the following command to install required dependencies:
    ```bash
    npm install
-3. Start the development server:
+or, if using yarn:
+   ```bash
+   yarn install
+### 4️⃣ Start the development server:
+To start the application in development mode, run:
    ```bash
    npm start
+or, for yarn:
+   ```bash
+   yarn start
    
 The app will be accessible at http://localhost:3000.
