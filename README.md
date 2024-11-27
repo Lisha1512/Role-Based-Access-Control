@@ -49,11 +49,10 @@ This project implements a **Role-Based Access Control (RBAC) System** using Reac
    git clone <repository-url>
    cd <repository-folder>
 
----
-
-### Install Dependencies:
+### 3️⃣ Install Dependencies:
    ```bash
    npm install
 
+### 4️⃣ Start the development server:
    ```bash
    npm start
